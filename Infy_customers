@@ -1,0 +1,13 @@
+package com.infy.customer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InfyCustomerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(InfyCustomerApplication.class, args);
+	}
+
+}
